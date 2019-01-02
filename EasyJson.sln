@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2042
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyJson", "EasyJson\EasyJson.csproj", "{C7B61739-B93A-4799-AB78-4097B0F992DD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManageJson", "EasyJson\ManageJson.csproj", "{C7B61739-B93A-4799-AB78-4097B0F992DD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
