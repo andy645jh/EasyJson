@@ -95,8 +95,9 @@ namespace ManageJson.lib
                 Console.WriteLine("Se ha encontrado un caracter extraño: " + _cadena[_index]);
             }
 
-            
-            Console.WriteLine("Nodo: "+node.getKey());
+            _index++;
+            breakEmpty();            
+            Console.WriteLine("Nodo: "+_cadena[_index]);
             return node;
         }
 

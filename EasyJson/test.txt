@@ -1,4 +1,5 @@
 {
 	"menu": "elkin",
-	"test" : {"contenido":"valores"}
+	"test" : {"contenido":"valores"},
+	"valor": 8
 }
